@@ -47,5 +47,5 @@
     3. test_delete_book_from_favorites_removes_only_specified_book - при удалении одной книги из избранного, другие остаются
 
 Тесты метода get_list_of_favorites_books:
-    1. test_get_list_of_favorites_books_returns_actual_favorites_list - возвращает актуальный список избранного
+    1. test_get_list_of_favorites_books_returns_actual_favorites_list - возвращает список избранного
     2. test_get_list_of_favorites_books_returns_books_after_adding - возвращает книги после добавления в избранное
